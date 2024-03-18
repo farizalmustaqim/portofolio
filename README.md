@@ -1,2 +1,11 @@
-# portofolio
-farizalmustaqim.github.io/portofolio
+# AI Engineer
+
+## Work Experience
+  -
+  -
+  -
+  
+## Education
+Yogyakarta State University
+
+## Certificates
