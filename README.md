@@ -25,6 +25,6 @@ resulted in a 15% increase in text extraction accuracy and a 30% reduction in pr
 ### Face Detection Apps
 The project utilizes YOLOv8, a cutting-edge object detection system, for accurate and real-time face detection in digital images. YOLOv8 is renowned for its speed and precision, making it ideal for various applications like security systems and social media platforms. The model is specifically trained to focus on detecting faces, enabling it to locate and identify faces with high accuracy. Whether it's counting people in a crowd or automatically tagging individuals in social media photos, the face detection system efficiently accomplishes the task with precision.
 
-![Face Detection Apps](https://github.com/farizalmustaqim/ml-zoomcamp/blob/main/Face_Detection_using_YOLOv8/images/result.png)
+![Face Detection Apps](https://github.com/farizalmustaqim/ml-zoomcamp/tree/main/Face_Detection_using_YOLOv8)
 ## Certificates
 - Machine Learning Zoomcamp
