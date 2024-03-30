@@ -1,5 +1,11 @@
 # AI Engineer/ML Engineer
-
+### Technical Skills
+- **Programming Languages**: Python, Java, C++
+- **Machine Learning Frameworks**: TensorFlow, PyTorch, Scikit-learn, ONNX, OpenVINO, Tensorrt, Keras
+- **Computer Vision Frameworks**: OpenCV, YOLO, PaddleOCR, Tesseract, EasyOCR
+- **Natural Language Processing Frameworks**: Transformers, NLTK, Spacy
+- **API Development**: Flask, FastAPI
+- **Deployment**: Docker, Kubernetes, AWS, Streamlit, Heroku
 ## Experience
 **AI Engineer @ Binokular Media Utama (_Feb 2023 - Present_)**
 - Quantified improvement in sentiment analysis accuracy by 15% through the development of a machine learning model using the **Transformers**.
@@ -25,6 +31,18 @@ resulted in a 15% increase in text extraction accuracy and a 30% reduction in pr
 ### Face Detection Apps
 The project utilizes YOLOv8, a cutting-edge object detection system, for accurate and real-time face detection in digital images. YOLOv8 is renowned for its speed and precision, making it ideal for various applications like security systems and social media platforms. The model is specifically trained to focus on detecting faces, enabling it to locate and identify faces with high accuracy. Whether it's counting people in a crowd or automatically tagging individuals in social media photos, the face detection system efficiently accomplishes the task with precision.
 
-![Face Detection Apps](https://github.com/farizalmustaqim/ml-zoomcamp/tree/main/Face_Detection_using_YOLOv8)
+Link apps: [Face Detection Apps](https://github.com/farizalmustaqim/ml-zoomcamp/tree/main/Face_Detection_using_YOLOv8)
+
+![Face Detection Apps](./assets/result.png)
+
+### Personal Protective Equipment (PPE) Detection
+The project aims to enhance workplace safety by detecting the presence of Personal Protective Equipment (PPE) in real-time. The model utilizes YOLOv8, a state-of-the-art object detection system, to identify and classify various PPE items such as helmets, vests, and gloves. By integrating the PPE detection system into existing security and surveillance systems, organizations can ensure that employees adhere to safety protocols and regulations. The model's high accuracy and real-time detection capabilities make it an invaluable tool for maintaining workplace safety and preventing accidents.
+
+Link apps: [PPE Detection](https://github.com/farizalmustaqim/Personal-Protective-Equipment-Detection)
+![PPE Detection](./assets/ppe_detection.jpg)
+
 ## Certificates
 - Machine Learning Zoomcamp
+- Artificial Intelligence Mastery Program
+- AWS re/Start batch 7
+- Data Science Bootcamp
