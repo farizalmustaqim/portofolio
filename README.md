@@ -1,11 +1,12 @@
 # AI Engineer/ML Engineer
-### Technical Skills
+## Technical Skills
 - **Programming Languages**: Python, Java, C++
 - **Machine Learning Frameworks**: TensorFlow, PyTorch, Scikit-learn, ONNX, OpenVINO, Tensorrt, Keras
 - **Computer Vision Frameworks**: OpenCV, YOLO, PaddleOCR, Tesseract, EasyOCR
 - **Natural Language Processing Frameworks**: Transformers, NLTK, Spacy
 - **API Development**: Flask, FastAPI
 - **Deployment**: Docker, Kubernetes, AWS, Streamlit, Heroku
+
 ## Experience
 **AI Engineer @ Binokular Media Utama (_Feb 2023 - Present_)**
 - Quantified improvement in sentiment analysis accuracy by 15% through the development of a machine learning model using the **Transformers**.
